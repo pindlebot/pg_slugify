@@ -1,0 +1,5 @@
+# pg_slugify extension
+comment = 'slugify'
+default_version = '0.0.1'
+relocatable = false
+requires = unaccent
